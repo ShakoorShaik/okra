@@ -19,8 +19,6 @@
 
 ## Demo
 
-> **▶ [Watch the Full Demo Video]**
-
 https://github.com/user-attachments/assets/f512d512-22e0-4889-a413-f2fbb74a738e
 
 *A 3-minute walkthrough of voice-to-care request flow, provider dispatch, AI scheduling agent, and real-time confirmation.*
