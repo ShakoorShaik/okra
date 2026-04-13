@@ -19,9 +19,12 @@
 
 ## Demo
 
-> **▶ [Watch the Full Demo Video](
-
-)**
+> **▶ [Watch the Full Demo Video]**
+<div align="center">
+  <video src="public/images/Okra Demo.mp4" controls width="800">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 *A 3-minute walkthrough of voice-to-care request flow, provider dispatch, AI scheduling agent, and real-time confirmation.*
 
